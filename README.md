@@ -234,4 +234,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/9f76b678-0e5c-467e-beec-9b07c2b3bfe0)
 
 # Result:
- Include your result here
+ Thus the given data visualization using matplot Library is executed successfully. 
